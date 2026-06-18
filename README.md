@@ -93,8 +93,8 @@ rag-system/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/rag-document-qa.git
-cd rag-document-qa
+git clone https://github.com/revathikrishnapk/rag-document-question-answering-system.git
+cd rag-document-question-answering-system
 ```
 
 ### Create Virtual Environment
